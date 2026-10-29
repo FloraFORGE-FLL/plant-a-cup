@@ -4,6 +4,10 @@
 
 ![Plant-a-Cup](plant-a-cup.png)
 
+It is the better way to grow plants because the cup is biodegradable so you can grow it in your house then plant it outside. It’s useful because it’s harder to grow a plant outside and it’s hard to keep a plant alive inside. 
+
+The holes are for the roots to reach the water you put the cup by a window for more sunlight.
+
 ## Printed with PHA 🌱
 
 **What is PHA?** PHA is a plastic made by tiny microbes! They munch on plant sugars and oils and store the PHA inside their bodies, kind of like how we store energy.
